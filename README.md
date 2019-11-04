@@ -39,6 +39,10 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/YaMo97/java-to-devanagari-translator/tags). 
 
+## Branching Strategy
+
+We use a branching strategy as per [this guide](https://nvie.com/posts/a-successful-git-branching-model/) by Vincent Driessen.
+
 ## Authors
 
 * **Yatharth Manocha** - *Initial work* - [YaMo97](https://github.com/YaMo97)
